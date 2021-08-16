@@ -1,3 +1,5 @@
+//Jose E Velazquez Sepulveda
+
 #include<iostream>
 #include<iomanip>
 #include<string>
@@ -523,7 +525,7 @@ void verificacionwol(int x[3], int y[3], int z, int v)
 
 }
 
-void simbolos(int x[3]) //Añadir por cout el simbolo de la carta
+void simbolos(int x[3]) //AÃ±adir por cout el simbolo de la carta
 {
 
 	for (int i = 0; i < 3; i++)
@@ -565,7 +567,7 @@ void simbolos(int x[3]) //Añadir por cout el simbolo de la carta
 	}
 }
 
-void simbolostrunfo(int x) //Añadir por cout el simbolo de la carta del triunfo
+void simbolostrunfo(int x) //AÃ±adir por cout el simbolo de la carta del triunfo
 {
 
 	if (c.triunfo == 0)
@@ -640,7 +642,7 @@ void simbolostrunfo(int x) //Añadir por cout el simbolo de la carta del triunfo
 
 }
 
-void numerostriunfos(int x)//Añadir por cout el numero de la carta del triunfo
+void numerostriunfos(int x)//AÃ±adir por cout el numero de la carta del triunfo
 {
 	if (x == 1 || x == 11 || x == 21 || x == 31)
 	{
@@ -686,7 +688,7 @@ void numerostriunfos(int x)//Añadir por cout el numero de la carta del triunfo
 
 }
 
-void numeros(int x[3], int i) //Añadir por cout el numero de la carta
+void numeros(int x[3], int i) //AÃ±adir por cout el numero de la carta
 {
 	if (x[i] == 1 || x[i] == 11 || x[i] == 21 || x[i] == 31)
 	{
