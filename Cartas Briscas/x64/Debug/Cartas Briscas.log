@@ -1,3 +1,0 @@
-﻿  CartasBriscasFinal.cpp
-D:\Programacion Visual\source\repos\Cartas Briscas\Cartas Briscas\CartasBriscasFinal.cpp(58,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-  Cartas Briscas.vcxproj -> D:\Programacion Visual\source\repos\Cartas Briscas\x64\Debug\Cartas Briscas.exe

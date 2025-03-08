@@ -4,7 +4,11 @@
 #include<iomanip>
 #include<string>
 #include<time.h>
-#include<Windows.h>
+#ifdef _WIN32
+    #include <Windows.h>
+#else
+    #include <unistd.h> 
+#endif
 
 #define e '\n';
 
