@@ -1,0 +1,96 @@
+# Ignore Visual Studio user-specific and build files
+.vscode/
+*.code-workspace
+
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# C++ build files
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.libs
+*.dll
+*.so
+*.so.*
+*.dylib
+*.a
+*.lib
+*.exe
+*.out
+*.app
+*.iobj
+*.ipdb
+*.pdb
+*.ilk
+*.exp
+*.idb
+*.DS_Store
+
+# CMake build files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CMakeLists.txt.user
+
+# Compiled source
+*.class
+*.dex
+*.jar
+*.war
+*.ear
+*.xpi
+*.whl
+*.pyc
+*.pyo
+*.pyd
+
+# Debugging files
+*.ncb
+*.opt
+*.plg
+*.pydevproject
+*.project
+*.cproject
+*.sconsign.dblite
+*.sconsign
+
+# Visual Studio Code workspace settings
+.vscode/
+launch.json
+tasks.json
+settings.json
+c_cpp_properties.json
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+# System files
+Thumbs.db
+.DS_Store
+*.bak
+*.swp
+*.swo
+*~
+
+# Ignore directories
+Debug/
+Release/
+x64/
+x86/
+.ipch/
+.vs/
+CMakeFiles/
+out/
+build/
+GeneratedFiles/
+
