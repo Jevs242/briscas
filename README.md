@@ -12,9 +12,11 @@ To compile the Brisca program, open a terminal in the directory containing `bris
 
 ```bash
 g++ -o brisca brisca.cpp
+```
 
 ## Running the program
 
 After compiling the program, you can run it by executing:
 ```bash
 ./brisca
+```
